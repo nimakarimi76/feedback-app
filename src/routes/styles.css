@@ -105,3 +105,9 @@ button:focus:not(:focus-visible) {
 	width: 1px;
 	white-space: nowrap;
 }
+
+.container {
+	max-width: 768px;
+	padding: 0 20px;
+	margin: 0 auto;
+}
